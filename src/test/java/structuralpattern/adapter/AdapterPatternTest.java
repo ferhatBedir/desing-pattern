@@ -1,7 +1,6 @@
 package structuralpattern.adapter;
 
 import org.junit.jupiter.api.Test;
-import structuralpattern.adapter.solution.*;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 

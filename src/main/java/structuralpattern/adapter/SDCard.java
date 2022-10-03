@@ -1,4 +1,4 @@
-package structuralpattern.adapter.solution;
+package structuralpattern.adapter;
 
 public class SDCard implements Card {
 
